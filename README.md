@@ -9,13 +9,13 @@
 - ⚡ Fun fact: I'm addicted to the Lord Of The Rings movies
 
 <a href="https://github.com/FernandaCAmaral/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandaCAmaral&hide=issues&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandaCAmaral&hide=issues&show_icons=true&theme=radical&text_color=B666D2&title_color=A32CC4&icon_color=9955BB"/>
 </a>
-<a href="https://github.com/FernandaCAmaral/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaCAmaral&layout=compact&theme=radical" />
+<a href="https://github.com/FernandaCAmaral/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaCAmaral&layout=compact&theme=radical&text_color=B666D2&title_color=A32CC4&icon_color=9955BB"/>
 </a>
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
