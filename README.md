@@ -8,10 +8,10 @@
 
 <div align="center">
 <a href="https://github.com/FernandaCAmaral/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandaCAmaral&hide=issues&show_icons=true&theme=radical&text_color=B666D2&title_color=A32CC4&icon_color=9955BB"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandaCAmaral&count_private=true&hide=issues&show_icons=true&theme=radical&text_color=B666D2&title_color=A32CC4&icon_color=9955BB"/>
 </a>
 <a href="https://github.com/FernandaCAmaral/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaCAmaral&layout=compact&theme=radical&text_color=B666D2&title_color=A32CC4&icon_color=9955BB"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaCAmaral&layout=compact&theme=radical&text_color=B666D2&title_color=A32CC4&icon_color=9955BB&hide=makefile,html"/>
 </a>
 </div>
 
