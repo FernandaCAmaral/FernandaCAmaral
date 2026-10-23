@@ -8,7 +8,7 @@ Acredito que um bom código não é apenas aquele que funciona, mas aquele que �
 
 ### 🛠️ Tecnologias & Ferramentas
 
-*   **Linguagens:** Java (em evolução), Python.
+*   **Linguagens:** Java, Python, JavaScript.
 *   **Testes & Qualidade:** Testes funcionais, Criação de Casos de Teste, Identificação de bugs.
 *   **Ferramentas & Metodologias:** Git/GitHub, Metodologias Ágeis (Scrum/Kanban).
 
@@ -16,7 +16,7 @@ Acredito que um bom código não é apenas aquele que funciona, mas aquele que �
 
 ### 🚀 Minha Jornada de Estudos
 
-*   📌 **Formação Java (Alura):** Estudando lógica, Orientação a Objetos e boas práticas de desenvolvimento backend.
+*   📌 **Formação Java (Geração Caldeira):** Estudando lógica, Orientação a Objetos e boas práticas de desenvolvimento backend, através de projetos práticos com empresas como a Oracle e a Gerdau.
 *   📌 **Foco em Automação:** Próximo passo nos meus estudos inclui automação de testes em Java (JUnit / Selenium).
 
 ---
