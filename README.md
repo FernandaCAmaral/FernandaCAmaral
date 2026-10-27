@@ -1,29 +1,37 @@
-# Olá, eu sou a Fernanda Amaral 👋
+# Hi, I'm Fernanda Amaral 👋
 
-Estudante de **Ciência da Computação** apaixonada por construir softwares robustos, eficientes e livre de bugs. Meu foco principal está na **Engenharia de Software**, transitando com facilidade entre o desenvolvimento backend e a garantia de qualidade (QA).
+Computer Science student who loves building reliable, well-tested software. I'm focused on **backend development** with **Java** and **Python**, and I care about quality as much as features: good code is code that works *and* can be trusted.
 
-Acredito que um bom código não é apenas aquele que funciona, mas aquele que é testado e confiável. Por isso, busco oportunidades tanto em **Desenvolvimento Java/Backend** quanto em **Qualidade de Software / Testes (QA)**.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-*   **Linguagens:** Java, Python, JavaScript.
-*   **Testes & Qualidade:** Testes funcionais, Criação de Casos de Teste, Identificação de bugs.
-*   **Ferramentas & Metodologias:** Git/GitHub, Metodologias Ágeis (Scrum/Kanban).
+I'm currently expanding from Java and Spring Boot into **Python web development** (FastAPI), and I'm looking for opportunities in **backend engineering** and **software quality / testing (QA)**.
 
 ---
 
-### 🚀 Minha Jornada de Estudos
+### 🛠️ Technologies & Tools
 
-*   📌 **Formação Java (Geração Caldeira):** Estudando lógica, Orientação a Objetos e boas práticas de desenvolvimento backend, através de projetos práticos com empresas como a Oracle e a Gerdau.
-*   📌 **Foco em Automação:** Próximo passo nos meus estudos inclui automação de testes em Java (JUnit / Selenium).
+*   **Languages:** Java, Python, JavaScript
+*   **Backend & Web:** Spring Boot, REST APIs, FastAPI (learning)
+*   **Testing & Quality:** Functional testing, test case design, bug reporting, pytest (learning), JUnit (learning)
+*   **Tools & Methods:** Git/GitHub, Agile (Scrum/Kanban)
 
 ---
 
-### 📫 Como me encontrar
+### 🚀 What I'm working on
+
+*   📌 **Geração Caldeira (Java training program):** learning object-oriented programming, Spring Boot and backend best practices through hands-on projects with companies such as Oracle and Gerdau. Selected among about 35,000 candidates.
+*   📌 **Python & FastAPI:** building a small REST API with validation and automated tests. 👉 [task-api](https://github.com/FernandaCAmaral/task-api)
+*   📌 **Next steps:** PostgreSQL with SQLAlchemy, and test automation (pytest, JUnit, Selenium).
+
+---
+
+### 🌎 Languages
+
+Portuguese (native) · English (C1) · Spanish (basic)
+
+---
+
+### 📫 Get in touch
 *   💼 [LinkedIn](https://www.linkedin.com/in/fernanda-cunha-do-amaral/)
-*   📧 camaralfernanda@gmail.com<a href="mailto:camaralfernanda@gmail.com?subject=Olá, vi seu perfil no GitHub"></a>
+*   📧 camaralfernanda@gmail.com<a href="mailto:camaralfernanda@gmail.com?subject=Hello, I saw your profile on Github"></a>
 
 
           
