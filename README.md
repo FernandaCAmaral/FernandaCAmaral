@@ -10,7 +10,7 @@ I'm currently expanding from Java and Spring Boot into **Python web development*
 
 *   **Languages:** Java, Python, JavaScript
 *   **Backend & Web:** Spring Boot, REST APIs, FastAPI (learning)
-*   **Testing & Quality:** Functional testing, test case design, bug reporting, pytest (learning), JUnit (learning)
+*   **Testing & Quality:** Unit & Integration, pytest (learning), JUnit (learning)
 *   **Tools & Methods:** Git/GitHub, Agile (Scrum/Kanban)
 
 ---
@@ -18,7 +18,7 @@ I'm currently expanding from Java and Spring Boot into **Python web development*
 ### 🚀 What I'm working on
 
 *   📌 **Geração Caldeira (Java training program):** learning object-oriented programming, Spring Boot and backend best practices through hands-on projects with companies such as Oracle and Gerdau. Selected among about 35,000 candidates.
-*   📌 **Python & FastAPI:** building a small REST API with validation and automated tests. 👉 [task-api](https://github.com/FernandaCAmaral/task-api)
+*   📌 **Python & FastAPI:** building a small REST API with validation and automated tests. 👉 [task-api](https://github.com/FernandaCAmaral/taskflow-api)
 *   📌 **Next steps:** PostgreSQL with SQLAlchemy, and test automation (pytest, JUnit, Selenium).
 
 ---
