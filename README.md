@@ -10,7 +10,7 @@ I'm currently expanding from Java and Spring Boot into **Python web development*
 
 *   **Languages:** Java, Python, JavaScript
 *   **Backend & Web:** Spring Boot, REST APIs, FastAPI (learning)
-*   **Testing & Quality:** Unit & Integration, pytest (learning), JUnit (learning)
+*   **Testing & Quality:** Unit & Integration tests, pytest (learning), JUnit (learning)
 *   **Tools & Methods:** Git/GitHub, Agile (Scrum/Kanban)
 
 ---
